@@ -118,4 +118,3 @@ For any questions or feedback, feel free to reach out:
 ---
 
 Thank you for using the Invoice Extractor using Google API! We hope this tool simplifies your invoice processing tasks.
-```
